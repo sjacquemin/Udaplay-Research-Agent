@@ -108,7 +108,8 @@ Try questions like: - **"When was Pokémon Gold and Silver released?"** -
 **"Which Mario game first introduced 3D platforming?"** - **"Was Mortal
 Kombat X released for PlayStation 5?"**
 
-The agent will: 1. Search the vector database\
+The agent will: 
+1. Search the vector database\
 2. Evaluate retrieval quality\
 3. Automatically decide whether to perform web search\
 4. Synthesize a structured final answer
