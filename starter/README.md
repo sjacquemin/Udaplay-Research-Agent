@@ -90,9 +90,7 @@ confidence --- a hallmark of modern agent design.
 2.  Install required packages\
 3.  Add your API keys to a `.env` file:
 
-```{=html}
-<!-- -->
-```
+
     OPENAI_API_KEY="YOUR_KEY"
     CHROMA_OPENAI_API_KEY="YOUR_KEY"
     TAVILY_API_KEY="YOUR_KEY"
