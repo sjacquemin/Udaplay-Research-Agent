@@ -86,8 +86,8 @@ confidence --- a hallmark of modern agent design.
 
 ## ▶️ How to Run
 
-1.  Create a virtual environment\
-2.  Install required packages\
+1.  Create a virtual environment
+2.  Install required packages
 3.  Add your API keys to a `.env` file:
 
 
@@ -96,8 +96,8 @@ confidence --- a hallmark of modern agent design.
     TAVILY_API_KEY="YOUR_KEY"
 
 4.  Run notebooks in order:
-    -   **Part 1:** Build the vector store & embedding pipeline\
-    -   **Part 2:** Build the agent & integrate tool use\
+    -   **Part 1:** Build the vector store & embedding pipeline
+    -   **Part 2:** Build the agent & integrate tool use
     -   Test with your own queries
 
 ------------------------------------------------------------------------
@@ -109,9 +109,9 @@ Try questions like: - **"When was Pokémon Gold and Silver released?"** -
 Kombat X released for PlayStation 5?"**
 
 The agent will: 
-1. Search the vector database\
-2. Evaluate retrieval quality\
-3. Automatically decide whether to perform web search\
+1. Search the vector database
+2. Evaluate retrieval quality
+3. Automatically decide whether to perform web search
 4. Synthesize a structured final answer
 
 ------------------------------------------------------------------------
