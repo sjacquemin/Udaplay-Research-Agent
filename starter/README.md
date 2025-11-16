@@ -129,8 +129,8 @@ Gradio)
 ## 🧠 Why This Project Matters
 
 RAG and agentic systems are the foundation of modern enterprise AI.\
-This project illustrates the real mechanisms behind those systems: -
-Knowledge indexing\
+This project illustrates the real mechanisms behind those systems: \
+- Knowledge indexing\
 - Tool orchestration\
 - Session-based memory\
 - Dynamic retrieval\
